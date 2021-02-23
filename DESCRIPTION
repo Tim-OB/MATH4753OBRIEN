@@ -11,3 +11,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/Tim-OB/MATH4753OBRIEN
 BugReports: https://github.com/Tim-OB/MATH4753OBRIEN/issues
+RoxygenNote: 7.1.1
