@@ -2,3 +2,5 @@
 
 export(loadFile)
 export(myfirstfun)
+export(mymult)
+export(myncurve)

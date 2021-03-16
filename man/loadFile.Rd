@@ -18,5 +18,5 @@ The object containing the data read in from the file
 Load File into object
 }
 \examples{
-loadFile(ddt, "DDT.csv")
+ddt = loadFile(ddt, "DDT.csv")
 }
